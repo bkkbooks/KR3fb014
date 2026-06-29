@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:acf1a427193d69a32adc8de6185065271ed502424b792be48a8f641c97009919

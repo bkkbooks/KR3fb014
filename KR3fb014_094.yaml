@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推經度黃赤道率術置周天半徑減黃道矢餘為黃赤道小弦以黃赤道大股乘黃赤道小弦用黃赤道大弦而一為黃赤道小股置黃道矢自之以周徑而一所得為黃道背弦差去減黃道半弧背半弧背即黃道度餘為黃道半弧弦置黃道半弧弦自之黃赤道小股自之相併以平方開之得赤道小弦置黃道半弧弦亦為赤道小股以半徑乘之為實以赤道小弦而一為赤道大股又為赤道半弧弦置黃道小股亦為赤道小句以赤道大弦乘之即半徑所得以赤
+  hash: sha256:f2e6faa32c7b5139cb1592e3c29d65e3e50dfcc32c0b255acb0037c117372277
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:cd903351ec3d8ce719ed8fb07a1a127ff35e0075812edfbb12e2f67450148016

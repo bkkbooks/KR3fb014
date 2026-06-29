@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月閏九千六十二分八十二秒分通閏為十二推發斂加時置所求分秒以十二乘之滿辰法為時正滿半辰法為時初命子時算外即所在時餘以十二收之如一千收為八十滿百為刻不滿為初刻辰法一萬半辰法五千授時曆故卷一
+  hash: sha256:1538094e59215fca2e8081430aff63e536ad30448956c9b22c927aacf90edab1
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:6c1706781bdd59937ccf33ab15510750ffcc43a7bb90aec27a38299ce8bbbf23

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者明元統大統厤法通軌而已故平立定三差弧矢割圓諸術深知其意者絕少天啟崇禎閒西法漸行大統説益絀棃洲先生因委尋源釐成此卷嗣君百家本其家學以入史局明史初藳於大統厤法先列法原未必不由於此則此書於授時厥功偉矣嘗疑言授時者明史藳所采尙有數種而四庫絕無著錄此書亦在所遺何也全榭山爲先生碑云此書一卷今乃四卷據歲差條下注云黄先生算厤歲在丁亥則此書己經後人更定非先生原本可知本文誤者惟祖沖之日景算術一條注文則每有譌誤茲皆一一訂正之道光丙申孟冬朔後學江陰宋景昌
+  hash: sha256:ca4e0eb5e693f375a2ca7e310bca3a47207ab9e3eb7a142e70e24aa80157ecff
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:7dc79734a9d17ffb1585d88abd7b68aa00bd432231fca0d21cccb63acbfab903

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此黃赤道圖黃道之句股弦並同
+  hash: sha256:930de98daed74f50fb1df415fe9937b7eeab3ac94beb10a918eee32e089b4e9d
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:e6d30deb09ee645fd637b0a325b8b8fd97836aee1e4051a8c3077a7057083a76

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂歲實亦平行之數比於測景所得必有纍黎氣應五十五萬六百分即辛巳歲前至元十七年冬至在己未日以旬周計之便為此歲氣應按丁丑歲至元十四年氣應三十九萬三十二百五十分至辛已歲前用加三歲實滿旬周去之餘五十五萬五百二十五分較少七十五秒此六百分者就整也旬周亦名紀法六十萬日周一萬通餘五萬二千四百二十五分歲實內不滿旬周者則為通餘以通餘乘積年比乘
+  hash: sha256:20a62e63b2dbde669a933ad82098e5144760a2fd582b840b115d8359c0eb60c6
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:6659fe67fda1b7d1e06eb5259a472d61b611980edd347782bb83bf053fef3ebd

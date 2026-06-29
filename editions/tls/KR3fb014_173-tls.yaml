@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/173
+seq: 173
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積度以正交赤道宿度加之滿宿次去之各得晨昏月離宿度求每日晨昏月離白道宿次第十九計朔弦望入轉日相距以每日轉定度積之爲轉積度以定朔弦望晨昏宿次前後相距計之爲相距後度朔後用昏望後用晨朔望晨昏俱用二度相減餘以相距日而一爲日差距度多爲加距度少爲減置每日轉定度以日差加減之爲每日行定度自朔至弦所用日差自弦至望又改置定朔弦望晨昏月度以每日行定度累加之卽每日晨昏月離白道宿次授時厤故卷四
+  hash: sha256:2bb0d3328906c8edb5bb06853f00acae5db34ccf18bd03b78b858272f35848d2
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:3c32874ce28b101e82a06a29178e5ace36e4b26b5fceaa81505908096367cef4

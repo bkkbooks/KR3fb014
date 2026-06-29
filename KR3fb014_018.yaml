@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲實者下算尤簡求次氣置天正冬至日分以氣策纍加之其日滿旬周去之外命如前各得次氣日辰分秒氣策十五日二千一百八十四分三十七秒半置歲實以二十四氣除之為氣策上考下驗隨歲實消長推天正經翔置中積加閏應為閏積滿翔實去之不盡為閏餘再置通積減閏餘為翔積滿旬周去之不盡以日周約之為日不滿為分秒即所求天正經翔上考置中積減閏
+  hash: sha256:3098ef4d977e450c93d9a9d83f2e8b3815a09153df6014aaffe73e9387b467e1
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:3fde9fc6a7c88d96b1f46b87b501bcd61e858c2d97015920ed68133a35a456a9

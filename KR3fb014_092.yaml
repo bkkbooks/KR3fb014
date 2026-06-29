@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/92
+seq: 92
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 整為七十秒又術以矢四度八四八二自之得二十三度五五四三二四為矢畀以周徑而一自十度上除百度滿周徑為十分得一十九分三十秒為背弦差以減半弧背二十四度餘為黃赤道大句
+  hash: sha256:fb8dc281afce15e5f23da3dab48649189ffcf5080dd0f98650a168a30f967b36
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:7c89226c01d1569d47b1ca30cac3d216124e4bff5049a451dd14486aadce31cc

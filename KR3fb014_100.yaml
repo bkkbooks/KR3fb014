@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此赤道圖唯弦與黃道同
+  hash: sha256:8c49c57855033b2a8339cd7b3cfb460bb652b88865546bfb6f31c97ed90615bf
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:0586bc553d9b74ef6e6c59575ff4e238b32c4585d62a912c01cb3916450abd19

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb014/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道小弦而一爲赤道大句以赤道大句減半徑餘爲赤道横弧矢置赤道横矢自之以周徑而一得半背弦差去加赤道半弧弦爲赤道半弧背卽赤道度
+  hash: sha256:e632d1278d22248f0dd99d963b115e7972691f5834477ac3834e96c9ab81a687
+metadata:
+  title: 授時曆故
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb014.xml
+hash: sha256:63dcd4953dfa792604a8b85648503a805fcf4a3c401e52f9b46b0e3243024aaf

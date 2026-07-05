@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 整為七十秒又術以矢四度八四八二自之得二十三度五五四三二四為矢畀以周徑而一自十度上除百度滿周徑為十分得一十九分三十秒為背弦差以減半弧背二十四度餘為黃赤道大句
-  hash: sha256:fb8dc281afce15e5f23da3dab48649189ffcf5080dd0f98650a168a30f967b36
+  text: 整爲七十秒又術以矢四度八四八二自之得二十三度五五四三二四爲矢畀以周徑而一自十度上除百度滿周徑爲十分得一十九分三十秒爲背弦差以減半弧背二十四度餘爲黃赤道大句
+  hash: sha256:c8158bb0caaef019be9730174638dbd24add68fed25bd7d081efc31ac1acf2fd
 metadata:
   title: 授時曆故
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb014.xml
-hash: sha256:7c89226c01d1569d47b1ca30cac3d216124e4bff5049a451dd14486aadce31cc
+hash: sha256:1114030805856913f4a8e6d7bdedcb9548a45973bdd69244e42c3bdbe6440627

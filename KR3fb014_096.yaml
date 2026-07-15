@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 道小弦而一爲赤道大句以赤道大句減半徑餘爲赤道横弧矢置赤道横矢自之以周徑而一得半背弦差去加赤道半弧弦爲赤道半弧背卽赤道度
-  hash: sha256:e632d1278d22248f0dd99d963b115e7972691f5834477ac3834e96c9ab81a687
+  text: 道小弦而一為赤道大句以赤道大句減半徑餘為赤道橫弧矢置赤道橫矢自之以周徑而一得半背弦差去加赤道半弧弦為赤道半弧背即赤道度
+  hash: sha256:b2bfa23a878c790ceb84ab142b121d2d44be629f37a021320074cb7e6081ae8f
 metadata:
   title: 授時曆故
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb014.xml
-hash: sha256:63dcd4953dfa792604a8b85648503a805fcf4a3c401e52f9b46b0e3243024aaf
+hash: sha256:ff64f3f175fee02b072f618d4216c7c7f25f1ad10c70f22c48fb0dbb921b1ac1
